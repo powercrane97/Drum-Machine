@@ -1,7 +1,5 @@
-import { useState } from "react";
 import "./App.css";
 import Drumpad from "./Drumpad";
-import { useEffect } from "react";
 
 function App() {
   return (
